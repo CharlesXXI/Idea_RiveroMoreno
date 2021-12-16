@@ -1,0 +1,61 @@
+/* Propiedades del header */
+/* Porpiedades del header */
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Nunito:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap");
+html {
+  font-size: 10px;
+}
+
+header nav {
+  background-color: #b9ece7;
+}
+header nav ul {
+  font-family: "Merriweather", serif;
+}
+header nav ul a {
+  font-size: 1.7rem;
+}
+
+/* Propiedades del footer */
+footer {
+  background-color: #b9ece7;
+}
+footer nav {
+  text-align: center;
+}
+
+/* propiedades de las imagenes del inicio */
+.fondoInicio {
+  background-color: #b1ccc9;
+}
+
+.imagenInicio {
+  width: 450px;
+  height: 888px;
+}
+
+.titulo {
+  font-size: 4rem;
+  color: red;
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+}
+
+/* Propiedades de la seccion nosotros */
+.parrafosComunes {
+  font-size: 2rem;
+  font-family: "Nunito", sans-serif;
+}
+
+/* propiedades de la seccion clientes */
+.imagenClientes {
+  width: 40%;
+  height: 290px;
+}
+
+.parrafoClientes {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */

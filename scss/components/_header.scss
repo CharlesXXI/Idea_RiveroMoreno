@@ -1,0 +1,19 @@
+/* Porpiedades del header */
+
+html {
+    font-size: 10px
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Nunito:wght@300&display=swap');
+
+header {
+    nav{
+        background-color: rgb(185, 236, 231);
+        ul {
+            a {
+                font-size: 1.7rem;
+            }
+            font-family: 'Merriweather', serif;
+        }
+    }
+}
